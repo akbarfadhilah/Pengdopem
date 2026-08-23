@@ -57,3 +57,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Backstory
+
+The Pendopem project was completed in groups during the 6th semester at Widyatama University. This project was created as part of the final exam for the Entrepreneurial Business Models course.
