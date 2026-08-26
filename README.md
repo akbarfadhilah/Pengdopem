@@ -61,3 +61,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Backstory
 
 The Pendopem project was completed in groups during the 6th semester at Widyatama University. This project was created as part of the final exam for the Entrepreneurial Business Models course.
+
+## Instalasi
+
+1. Clone repository
+2. Masuk ke folder project
+3. Install dependency
+4. Copy `.env`
+5. Konfigurasi database
+6. Jalankan migration
+7. Jalankan server
