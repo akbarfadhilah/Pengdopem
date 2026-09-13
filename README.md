@@ -63,11 +63,17 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 The Pendopem project was completed in groups during the 6th semester at Widyatama University. This project was created as part of the final exam for the Entrepreneurial Business Models course.
 
 ## Instalasi
+Follow these steps to set up the project locally:
+1. Clone the repository -> git clone https://github.com/akbarfadhilah/Pengdopem.git
+2. Navigate into the project folder -> cd Pengdopem
+3. Install dependencies
+            -> composer install
+            -> npm install && npm run dev
+4. Copy the environment file -> cp .env.example .env
+5. Configure the database
+       - Open the .env file.
+       - Update the database connection settings (DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME, DB_PASSWORD).
+6. Run migrations -> php artisan migrate
+7. Start the development server -> php artisan serve
 
-1. Clone repository
-2. Masuk ke folder project
-3. Install dependency
-4. Copy `.env`
-5. Konfigurasi database
-6. Jalankan migration
-7. Jalankan server
+
